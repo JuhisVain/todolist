@@ -1,0 +1,59 @@
+.mainview {
+	float: left;
+	border-style: double;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #757474;
+}
+
+.listobject {
+	border-style: solid;
+	border-width: 1px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: WHITE;
+}
+
+.todocontent {
+	box-sizing: border-box;
+	float: left;
+	width: calc(100% - 175px);
+	border-style: dashed;
+	border-width: 1px;
+	margin-top: 5px;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-bottom: 5px;
+}
+
+.rightfloater{
+	box-sizing: border-box;
+	float: right;
+	width: 160px;
+	margin-right: 4px;
+	margin-bottom: 5px;
+}
+
+.tododeadline {
+	box-sizing: border-box;
+	float: left;
+	width: 80px;
+	border-style: dashed;
+	border-width: 1px;
+	text-align: center;
+	margin-top: 5px;
+}
+
+.control {
+	box-sizing: border-box;
+	float: right;
+	width: 80px;
+}
+
+.formclass {
+	clear: left;
+}
